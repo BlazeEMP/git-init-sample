@@ -1,0 +1,37 @@
+/*
+color: aqua;
+color: coral;
+color: darkblue; */
+
+* {
+
+}
+
+header {
+    background-color: coral;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 50px;
+}
+
+footer {
+    background-color: coral;
+}
+
+.header-links {
+    display: inline;
+    text-decoration: none;
+}
+
+.list-top {
+    text-align: right;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+
+}
